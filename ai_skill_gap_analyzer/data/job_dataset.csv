@@ -1,0 +1,43 @@
+department,job_title,skills
+Computer Science,Software Engineer,"python, java, data structures, algorithms, git"
+Computer Science,Backend Developer,"python, django, api development, sql, git"
+Computer Science,Frontend Developer,"html, css, javascript, react, ui design"
+Computer Science,Full Stack Developer,"html, css, javascript, react, nodejs, sql"
+Computer Science,DevOps Engineer,"docker, kubernetes, linux, ci cd, aws"
+
+Data Science,Data Scientist,"python, machine learning, statistics, pandas, numpy"
+Data Science,Data Analyst,"excel, sql, data visualization, python, statistics"
+Data Science,Machine Learning Engineer,"python, scikit learn, deep learning, tensorflow, data preprocessing"
+Data Science,AI Engineer,"python, deep learning, pytorch, neural networks, computer vision"
+
+Mechanical,Mechanical Engineer,"cad, thermodynamics, manufacturing, solidworks"
+Mechanical,Design Engineer,"autocad, solidworks, product design, mechanical analysis"
+Mechanical,Production Engineer,"manufacturing processes, quality control, production planning"
+
+Civil,Civil Engineer,"autocad, surveying, structural design, construction management"
+Civil,Structural Engineer,"structural analysis, autocad, concrete design"
+Civil,Site Engineer,"construction planning, surveying, project management"
+
+Electrical,Electrical Engineer,"circuit design, power systems, matlab, control systems"
+Electrical,Power Engineer,"power systems, electrical machines, grid management"
+Electrical,Control Systems Engineer,"control theory, matlab, automation"
+
+Electronics,Electronics Engineer,"embedded systems, microcontrollers, pcb design"
+Electronics,Embedded Engineer,"c programming, microcontrollers, hardware interfacing"
+Electronics,VLSI Engineer,"verilog, digital design, semiconductor physics"
+
+Business,Business Analyst,"excel, data analysis, sql, communication"
+Business,Project Manager,"project planning, leadership, risk management"
+Business,Operations Manager,"operations management, logistics, leadership"
+
+Marketing,Digital Marketing Specialist,"seo, social media marketing, content marketing"
+Marketing,Marketing Manager,"market research, branding, advertising"
+Marketing,SEO Specialist,"seo, keyword research, google analytics"
+
+Finance,Financial Analyst,"financial modeling, excel, data analysis"
+Finance,Investment Analyst,"portfolio management, financial analysis"
+Finance,Accountant,"accounting principles, taxation, auditing"
+
+Healthcare,Medical Lab Technician,"lab testing, microbiology, diagnostic equipment"
+Healthcare,Healthcare Administrator,"hospital management, communication"
+Healthcare,Nurse,"patient care, medical procedures, healthcare ethics"
